@@ -32,7 +32,7 @@
   <a name="installation">Clone this repository to your local machine</a>
   <br />
   <br />
-  To use MySQL shell: Enter `mysql -u root -p` from the root of the project, then enter your MySQL password
+  To use MySQL shell: Enter `mysql -u root -p` from the root of the project, then enter your MySQL password.
   <br />
   <br />
   To start the server use: `node server.js` 
