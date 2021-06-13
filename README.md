@@ -31,11 +31,12 @@
   ## :wrench: Installation
   <a name="installation">Clone this repository to your local machine</a>
   <br />
-  
+  <br />
+  To start the server use: `node server.js` 
 
 
   ## :desktop_computer: Usage
-  <a name="usage">This application is used to showcase the back-end functionality of an e-commerce store utilizing MySQL2 and Sequelize, as well as DOTENV, and bcrypt for data hashing.</a>
+  <a name="usage">This application is used to showcase the back-end functionality of an e-commerce store utilizing MySQL2, Sequelize, and dotenv to store sensitive data. </a>
   <br />
   
   
