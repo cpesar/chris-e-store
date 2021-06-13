@@ -4,7 +4,7 @@
   <br />
 
   ## Description
-  This application serves as the back-end for a potential e-commerce store. It takes a working Express.js API and configures it using Sequelize to interact with a MySQL database. This application will not be deployed so I have provided a walk-through of the app's functionality.
+  This application serves as the back-end for a potential e-commerce store. It takes a working Express.js API and configures it using Sequelize to interact with a MySQL database. This application will not be deployed so I have provided several walk-through videos of the app's functionality.
   <br />
   <br />
   [Tag table creation using MySQL Shell](https://www.youtube.com/watch?v=0pD19aGeOxU)
