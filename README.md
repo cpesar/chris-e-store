@@ -8,6 +8,9 @@
   <br />
   <br />
   [Tag table creation using MySQL Shell](https://www.youtube.com/watch?v=0pD19aGeOxU)
+  <br />
+  <br />
+  [Starting the server from the Terminal](https://www.youtube.com/watch?v=eDZoeqJkpmg)
   
   
   
