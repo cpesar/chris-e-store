@@ -7,16 +7,17 @@
   This application serves as the back-end for a potential e-commerce store. It takes a working Express.js API and configures it using Sequelize to interact with a MySQL database. This application will not be deployed so I have provided several walk-through videos of the app's functionality.
   <br />
   <br />
-  [Tag table creation using MySQL Shell](https://www.youtube.com/watch?v=0pD19aGeOxU)
-  <br />
-  <br />
-  [Tables using MySQL Shell](https://www.youtube.com/watch?v=54qtMK_VpKI)
-  <br />
-  <br />
-  [Starting the server from the Terminal](https://www.youtube.com/watch?v=eDZoeqJkpmg)
-  <br />
-  <br />
   [Seed database from terminal](https://www.youtube.com/watch?v=jxVa960Dq8U)
+  <br />
+  <br />
+  [Category API Routes](https://www.youtube.com/watch?v=i1ivLbAmS4E)
+  <br />
+  <br />
+  [Product API Routes](https://www.youtube.com/watch?v=54qtMK_VpKI)
+  <br />
+  <br />
+  [Tags API Routes](https://www.youtube.com/watch?v=eDZoeqJkpmg)
+ 
   
   
   
