@@ -13,10 +13,10 @@
   [Category API Routes](https://www.youtube.com/watch?v=i1ivLbAmS4E)
   <br />
   <br />
-  [Product API Routes](https://www.youtube.com/watch?v=54qtMK_VpKI)
+  [Product API Routes](https://www.youtube.com/watch?v=XwNPanL-tvY)
   <br />
   <br />
-  [Tags API Routes](https://www.youtube.com/watch?v=eDZoeqJkpmg)
+  [Tags API Routes](https://www.youtube.com/watch?v=G-npao8QcnI)
  
   
   
