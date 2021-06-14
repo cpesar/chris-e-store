@@ -39,11 +39,14 @@
   To use MySQL shell: Enter `mysql -u root -p` from the root of the project, then enter your MySQL password.
   <br />
   <br />
+  Seed the database: `node seeds/index.js`
+  <br />
+  <br />
   To start the server use: `node server.js` 
 
 
   ## :desktop_computer: Usage
-  <a name="usage">This application is used to showcase the back-end functionality of an e-commerce store utilizing MySQL2, Sequelize, and dotenv to store sensitive data. </a>
+  <a name="usage">This application is used to showcase the back-end functionality of an e-commerce store utilizing MySQL2, Sequelize, and dotenv to store sensitive data. All API endpoints were tested using Insomnia Core. </a>
   <br />
   
   
@@ -60,7 +63,7 @@
   
 
   ## :hourglass: Tests
-  <a name="tests">N/A</a>
+  <a name="tests">Insomnia Core for API route testing</a>
   
 
   ## :grey_question: Questions
