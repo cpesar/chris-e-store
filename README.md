@@ -16,7 +16,7 @@
   [Starting the server from the Terminal](https://www.youtube.com/watch?v=eDZoeqJkpmg)
   <br />
   <br />
-  [Seed database from terminal](https://www.youtube.com/watch?v=OfqRiJStMhE)
+  [Seed database from terminal](https://www.youtube.com/watch?v=jxVa960Dq8U)
   
   
   
